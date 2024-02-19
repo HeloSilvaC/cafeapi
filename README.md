@@ -2,7 +2,7 @@
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@HeloSilvaC-blue.svg?style=flat-square)](https://twitter.com/HeloSilvaC)
 [![Source Code](http://img.shields.io/badge/source-HeloSilvaC/cafeapi-blue.svg?style=flat-square)](https://github.com/HeloSilvaC/cafeapi)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/HeloSilvaC/cafeapi.svg?style=flat-square)](https://github.com/HeloSilvaC/cafeapi/releases/tag/v1.0-cafeapi)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/HeloSilvaC/cafeapi.svg?style=flat-square)](https://github.com/HeloSilvaC/cafeapi/blob/master/composer.json)
 [![Latest Version](https://img.shields.io/github/release/HeloSilvaC/cafeapi.svg?style=flat-square)](https://github.com/HeloSilvaC/cafeapi/releases/)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/HeloSilvaC/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/HeloSilvaC/cafeapi)

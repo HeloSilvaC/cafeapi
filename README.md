@@ -2,7 +2,7 @@
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@HeloSilvaC-blue.svg?style=flat-square)](https://twitter.com/HeloSilvaC)
 [![Source Code](http://img.shields.io/badge/source-HeloSilvaC/cafeapi-blue.svg?style=flat-square)](https://github.com/HeloSilvaC/cafeapi)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/HeloSilvaC/cafeapi.svg?style=flat-square)](https://github.com/HeloSilvaC/cafeapi/blob/master/composer.json)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/robsonvleite/cafeapi.svg?style=flat-square)](https://packagist.org/packages/HeloSilvaC/cafeapi)
 [![Latest Version](https://img.shields.io/github/release/HeloSilvaC/cafeapi.svg?style=flat-square)](https://github.com/HeloSilvaC/cafeapi/releases/)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/HeloSilvaC/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/HeloSilvaC/cafeapi)
@@ -166,8 +166,8 @@ Thank you
 
 - [Robson V. Leite](https://github.com/robsonvleite) (Developer)
 - [Heloísa Contrera](https://github.com/HeloSilvaC) (Developer)
-- [UpInside Treinamentos](https://github.com/HeloSilvaC) (Team)
-- [All Contributors](https://github.com/HeloSilvaC/cafeapi/contributors) (This Rock)
+- [UpInside Treinamentos](https://github.com/robsonvleite) (Team)
+- [All Contributors](https://github.com/robsonvleite/cafeapi/contributors) (This Rock)
 
 ## License
 

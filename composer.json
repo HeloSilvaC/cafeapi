@@ -27,4 +27,5 @@
     "psr-4": {
       "HeloSilvaC\\CafeApi\\": "src"
     }
-  }}
+  }
+}

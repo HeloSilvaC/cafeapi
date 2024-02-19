@@ -27,7 +27,7 @@ Você pode saber mais **[clicando aqui](https://www.upinside.com.br/fsphp)**.
 Uploader is available via Composer:
 
 ```bash
-"HeloSilvaC/cafeapi": "^1.0"
+"helosilvac/cafeapi": "^1.0"
 ```
 
 or run

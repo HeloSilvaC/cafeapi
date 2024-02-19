@@ -33,7 +33,7 @@ Uploader is available via Composer:
 or run
 
 ```bash
-composer require HeloSilvaC/cafeapi
+composer require helosilvac/cafeapi
 ```
 
 ## Documentation
